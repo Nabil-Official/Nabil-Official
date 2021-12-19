@@ -23,7 +23,7 @@
 
 <p align = "center">
  
-[<img src = "https://img.shields.io/badge/youtube-Nabil%20Rahman-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://github.com/Nabil-Official)
+[<img src = "https://img.shields.io/badge/youtube-Nabil%20Rahman-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UC8km4e4REGBnOSknq82h_ew)
 [<img src = "https://img.shields.io/badge/facebbok-Nabil%20Rahman-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/nabil.404)
 
 </p>
