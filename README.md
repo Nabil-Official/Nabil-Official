@@ -14,7 +14,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Nabil-Official&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Official&hide=css">
 </p>
 
 </details>
@@ -30,3 +29,7 @@
 </p>
 
 </details>
+
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Nabil-Official" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Officail&layout=compact"></a>
+</p>
