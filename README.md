@@ -1,7 +1,8 @@
 <h1 align="center">Hi I am <span style="color:red"><i>Nabil Rahman</i></span> ! </h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Student;Noob;exit())](https://git.io/typing-svg)
-
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=root@kali:~/++whoami;Student;Part_Time_Programmer;repeat())&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"></p>
 
