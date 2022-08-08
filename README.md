@@ -34,5 +34,4 @@
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Nabil-Official" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Official&layout=compact"></a>
 </p>
-<br> <br>
 <script src="https://tryhackme.com/badge/357003"></script>
