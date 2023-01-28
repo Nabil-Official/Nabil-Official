@@ -20,7 +20,7 @@
 </details>
 
 <details open>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>Find me on</b></summary>
 
 <p align = "center">
  
@@ -32,5 +32,5 @@
 </details>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Nabil-Official" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Official&layout=compact"></a>
+<a href="https://github.com/Nabil-Official"><img title="Nabil-Official" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Official&layout=compact"></a>
 </p>
