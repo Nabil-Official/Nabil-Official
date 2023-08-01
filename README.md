@@ -9,12 +9,8 @@
 
 [![Youtube Badge](https://img.shields.io/badge/-@RecsuleAttercop-1ca0f1?style=flat&labelColor=1ca0f1&logo=youtube&logoColor=white&link=[https://www.youtube.com/@nabil.rahman](https://www.youtube.com/@nabil.rahman))](https://www.youtube.com/@nabil.rahman)  [![Mail Badge](https://img.shields.io/badge/-NABIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rjnabilrahman@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-NabilRahman-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=[https://www.facebook.com/nabil.404](https://www.facebook.com/nabil.404))](https://www.facebook.com/nabil.404)
 
-
-
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br></br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Nabil-Official&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
@@ -23,18 +19,5 @@
 
 </details>
 
-<details open>
-<summary>🤝 <b>Find me on</b></summary>
 
-<p align = "center">
- 
-[<img src = "https://img.shields.io/badge/youtube-Nabil%20Rahman-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UC8km4e4REGBnOSknq82h_ew)
-[<img src = "https://img.shields.io/badge/facebbok-Nabil%20Rahman-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/nabil.404)
 
-</p>
-
-</details>
-
-<p align="center">
-<a href="https://github.com/Nabil-Official"><img title="Nabil-Official" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Official&layout=compact"></a>
-</p>
