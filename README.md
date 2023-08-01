@@ -2,7 +2,7 @@
 
 <p>
 <h3><b>I'm <i>Nabil Rahman</i>, I am currently a student with a keen interest in cybersecurity, coding, and development.</b></h3>
- <br><br>
+ 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
 :mailbox: Reach me out!   
