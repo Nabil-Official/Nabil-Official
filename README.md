@@ -4,7 +4,7 @@
 <h3><b>I'm <i>Nabil Rahman</i>, I am currently a student with a keen interest in cybersecurity, coding, and development.</b></h3>
  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
-
+<br>
 :mailbox: Reach me out!   
 
 [![Youtube Badge](https://img.shields.io/badge/-@RecsuleAttercop-1ca0f1?style=flat&labelColor=1ca0f1&logo=youtube&logoColor=white&link=[https://www.youtube.com/@nabil.rahman](https://www.youtube.com/@nabil.rahman))](https://www.youtube.com/@nabil.rahman)  [![Mail Badge](https://img.shields.io/badge/-NABIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rjnabilrahman@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-NabilRahman-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=[https://www.facebook.com/nabil.404](https://www.facebook.com/nabil.404))](https://www.facebook.com/nabil.404)
