@@ -13,7 +13,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Nabil-Official&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Nabil-Official&show_icons=true&theme=blue-green&layout=compact">
  
 </p>
 
